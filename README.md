@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I'm%20Rasul&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Self-Taught+Full+Stack+Developer;C%23+%2F+.NET+%7C+React+%2F+TypeScript;Building+things+end-to-end;Based+in+Tashkent%2C+Uzbekistan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%2F+.NET+%7C+React+%2F+TypeScript;Building+things+end-to-end;Based+in+Tashkent%2C+Uzbekistan" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm a self-taught full stack developer working mainly with C# / ASP.NET Core on the backend and Next.js / React / TypeScript on the frontend, with PostgreSQL as my database of choice.
+I'm a full stack developer working mainly with C# / ASP.NET Core on the backend and Next.js / React / TypeScript on the frontend, with PostgreSQL as my database of choice.
 
 I build full-cycle projects — from API and database design to production deployment with Docker and CI/CD. Along the way I've worked with JWT authentication, real-time features via SignalR, third-party API integrations, and multilingual interfaces.
 
