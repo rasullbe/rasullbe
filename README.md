@@ -55,7 +55,6 @@ Right now I'm looking for my **first internship or junior position** where I can
 ## 💡 Currently Exploring
 
 - 🔧 **Software architecture, testing and design patterns**: moving from "it works" to "it's maintainable"
-- 🥽 **Unity (C#)**: preparing an entry for the **Meta VR Start Developer Competition 2026**
 - 🖥 Ideas on my radar: an open-source terminal for Windows on .NET, and a `dotnet` CLI tool that scaffolds ASP.NET Core projects with Docker and CI
 
 <br>
@@ -66,7 +65,7 @@ Right now I'm looking for my **first internship or junior position** where I can
 - 🏋️ I train full-body at the gym three times a week, because consistency works the same way in code
 - 🎬 I love movies and animation
 - 🤖 I follow AI news, IT news and what's happening in Uzbekistan's tech scene
-- 🎯 My 4-year plan: become a solid .NET backend engineer
+- 🎯 My 4-year plan: become a solid .NET Fullstack engineer
 
 <br>
 
